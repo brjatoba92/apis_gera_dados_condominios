@@ -1,0 +1,2737 @@
+[
+    {
+        "nome":"Edifício Residencial Serraria",
+        "endereco":"R. Adolfo Gustavo, 90 - Serraria, Maceió - AL, 57045-680, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Residencial Saint Denis",
+        "endereco":"R. Prof. Silvio Macedo, 49 - Jatiúca, Maceió - AL, 57036-720, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Residencial Novittá",
+        "endereco":"R. Hugo Corrêa Paes, 659 - Gruta de Lourdes, Maceió - AL, 57052-827, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Residencial Montpellier",
+        "endereco":"Av. Prof. Sandoval Arroxelas, 127 - Ponta Verde, Maceió - AL, 57035-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Premium Residence",
+        "endereco":"Av. Comendador Gustavo Paiva, 3565 - Mangabeiras, Maceió - AL, 57037-285, Brazil",
+        "telefone":"(82) 98822-0772"
+    },
+    {
+        "nome":"Edifício One Residence",
+        "endereco":"R. José Júlio Sawer, 68 - Ponta Verde, Maceió - AL, 57035-390, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Residencial Sumatra",
+        "endereco":"R. Dep. Rubéns Canúto, 2 - Pinheiro, Maceió - AL, 57057-060, Brazil",
+        "telefone":"(82) 3034-3135"
+    },
+    {
+        "nome":"Edifício Residencial Murilópolis",
+        "endereco":"R. Nelson Marinho Araujo, 354 - Barro Duro, Maceió - AL, 57020-970, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Fit Residence",
+        "endereco":"R. Dep. José Lages, 919 - Ponta Verde, Maceió - AL, 57035-330, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Residencial Lune",
+        "endereco":"R. Antônio Barbosa, 62 - Gruta de Lourdes, Maceió - AL, 57052-740, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Residencial Atlântida",
+        "endereco":"R. Orlando Pugliese, 78 - Gruta de Lourdes, Maceió - AL, 57052-612, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Sílvia Cavalcante",
+        "endereco":"Av. Empresário Carlos da Silva Nogueira, 1256 - Jatiúca, Maceió - AL, 57036-540, Brazil",
+        "telefone":"(82) 3235-6470"
+    },
+    {
+        "nome":"Edifício Dilma Paiva",
+        "endereco":"Rua Conselheiro José Bezerra, 226 - Farol, Maceió - AL, 57055-130, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Jatiúca 1",
+        "endereco":"045, R. Cel. Adauto Gomes Barbosa, 750 - Poço, Maceió - AL, Brazil",
+        "telefone":"(82) 99802-5809"
+    },
+    {
+        "nome":"Residencial Life",
+        "endereco":"R. Dr. Oséias Tenório, 41 - Gruta de Lourdes, Maceió - AL, 57052-765, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Building Regate",
+        "endereco":"R. Industrial Climério Sarmento, 56 - pt, Maceió - AL, 57036-590, Brazil",
+        "telefone":"(82) 3432-4841"
+    },
+    {
+        "nome":"Edifício Salute",
+        "endereco":"R. Dona Marieta Lages, 150 - Farol, Maceió - AL, 57050-130, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Mares do Sul",
+        "endereco":"Rua Dr. Noel Nutels, 181 - Ponta Verde, Maceió - AL, 57035-450, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Liberty",
+        "endereco":"Av. Eraldo Lins Cavalcante, 139 - Serraria, Maceió - AL, 57045, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Montichiari",
+        "endereco":"R. Industrial Climério Sarmento, 131 - Jatiúca, Maceió - AL, 57036-590, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Via Grandesso",
+        "endereco":"Av. Dr. José Sampaio Luz, 310 - Ponta Verde, Maceió - AL, 57035-260, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Villa Vernazza",
+        "endereco":"R. Carlos Alberto Novaes, 142 - Serraria, Maceió - AL, 57046-775, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edificio Splendor",
+        "endereco":"Rua Paulina Maria de Mendonça, 315 - Jatiúca, Maceió - AL, 57037-540, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Petra",
+        "endereco":"R. Dr. Roland Simon, 346-232 - Jatiúca, Maceió - AL, 57035-552, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Palazzo Maggiore",
+        "endereco":"R. Osvaldo Sarmento, 110 - Farol, Maceió - AL, 57051-510, Brazil",
+        "telefone":"(82) 3223-2220"
+    },
+    {
+        "nome":"Edifício Marquês do Herval",
+        "endereco":"207, R. Marquês do Herval, 145 - Farol, Maceió - AL, 57055-100, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Puerto Manzano",
+        "endereco":"R. Dep. Elizeu Teixeira, 43 - Ponta Verde, Maceió - AL, 57035-240, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Mediterrâneo",
+        "endereco":"Condomínio Residencial Mediterraneo - R. Pedro Américo, 1212 - Poço, Maceió - AL, 57025-890, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Cartier",
+        "endereco":"R. Sen. Rui Palmeira, 926 - Ponta Verde, Maceió - AL, 57035-250, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Dolce Vita",
+        "endereco":"R. Júlio Plech Filho, 49 - Pajuçara, Maceió - AL, 57030-003, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Piazza Bella Vista",
+        "endereco":"Av. Aristeu de Andrade, 271 - Farol, Maceió - AL, 57051-090, Brazil",
+        "telefone":"(82) 3336-2565"
+    },
+    {
+        "nome":"Edifício Vandelli",
+        "endereco":"R. Raphael Perrelli, 20 - Jatiúca, Maceió - AL, 57036-770, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Allure",
+        "endereco":"Av. Dr. José Sampaio Luz, 630 - Ponta Verde, Maceió - AL, 57035-260, Brazil",
+        "telefone":"(82) 98850-6121"
+    },
+    {
+        "nome":"Edifício Vicenzza",
+        "endereco":"Rua Paulina Maria de Mendonça, 165 - Jatiúca, Maceió - AL, 57035-557, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Barão de Mauá",
+        "endereco":"R. Mal. Antônio Guedes Muniz, 150 - Jatiúca, Maceió - AL, 57036-670, Brazil",
+        "telefone":"(82) 99384-6498"
+    },
+    {
+        "nome":"Edifício Vivenda do Bosque 1",
+        "endereco":"Av. Eraldo Lins Cavalcante, 515 - Serraria, Maceió - AL, 57046-570, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Portofino",
+        "endereco":"R. Comerc. José Pontes de Magalhães, 276 - Jatiúca, Maceió - AL, 57036-250, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Grand Versailles",
+        "endereco":"Av. Jorn. José Batista dos Santos, 62 - Gruta de Lourdes, Maceió - AL, 57052-645, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Cidade de Guimarães",
+        "endereco":"R. Carlos Tenório, 227 - Ponta Verde, Maceió - AL, 57035-010, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Mariana Portela",
+        "endereco":"R. Clementino do Monte, 355 - Farol, Maceió - AL, 57055-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Lírio dos Campos",
+        "endereco":"R. Dr. Odilon Vasconcelos, 605 - Jatiúca, Maceió - AL, 57035-660, Brazil",
+        "telefone":"(82) 3325-4448"
+    },
+    {
+        "nome":"Edifício Coimbra",
+        "endereco":"Av. Prof. Sandoval Arroxelas, 81 - Ponta Verde, Maceió - AL, 57035-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício VC Stella Maris",
+        "endereco":"R. Dra. Rosa Cabús, 176 - Jatiúca, Maceió - AL, 57035-825, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Casa Real",
+        "endereco":"Av. Dr. José Sampaio Luz, 1271 - Ponta Verde, Maceió - AL, 57035-260, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Oregon",
+        "endereco":"R. Bancário José Farias de Almeida, 205 - Jatiúca, Maceió - AL, 57036-440, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Beiriz",
+        "endereco":"R. Valdo Omena, 347 - Ponta Verde, Maceió - AL, 57035-170, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Grand Soleil",
+        "endereco":"R. Gen. Newton de Andrade Cavalcante, 48 - Jatiúca, Maceió - AL, 57036-580, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Vivace Residence",
+        "endereco":"Av. Maria Carolina Moreira Sampaio, 460 - Antares, Maceió - AL, 57048-740, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Amalfi",
+        "endereco":"Rua José Correia Filho, 61 - Ponta Verde, Maceió - AL, 57035-285, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Savassi",
+        "endereco":"Rua Hélio Pradines, 466 - Ponta Verde, Maceió - AL, 57035-220, Brazil",
+        "telefone":"(82) 3337-1617"
+    },
+    {
+        "nome":"Edifício SOHO",
+        "endereco":"Rua Luiz Campos Teixeira, 1100 - Ponta Verde, Maceió - AL, 57035-290, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Porto Madero",
+        "endereco":"Av. Prof. Vital Barbosa, 134 - Ponta Verde, Maceió - AL, 57035-400, Brazil",
+        "telefone":"(82) 3235-1716"
+    },
+    {
+        "nome":"Edifício Vega",
+        "endereco":"Av. Amazonas, 57 - Prado, Maceió - AL, 57010-060, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Domus Residence",
+        "endereco":"R. Sen. Rui Palmeira, 777 - Ponta Verde, Maceió - AL, 57035-250, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Eugenio I",
+        "endereco":"R. Alcebíades Valente, 185 - Farol, Maceió - AL, 57051-050, Brazil",
+        "telefone":"(87) 99968-2731"
+    },
+    {
+        "nome":"Edifício Amaraji",
+        "endereco":"R. Dr. Roland Simon, 575 - Jatiúca, Maceió - AL, 57035-552, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edificio Dony Coutinho",
+        "endereco":"Av. Dr. Júlio Marques Luz, 16 - Jatiúca, Maceió - AL, 57035-700, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Spazio Vitá",
+        "endereco":"R. Estatístico Teixeira de Freitas, 86 - Pinheiro, Maceió - AL, 57055-660, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Giardino di Mare",
+        "endereco":"Av. Aristeu de Andrade, 492 - Farol, Maceió - AL, 57051-090, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Évora Monte",
+        "endereco":"R. Durval Guimarães, 1354 - Ponta Verde, Maceió - AL, 57035-060, Brazil",
+        "telefone":"(82) 99984-2710"
+    },
+    {
+        "nome":"Condomínio Dom Adelmo Machado",
+        "endereco":"Av. Comendador Gustavo Paiva - Cruz das Almas, Maceió - AL, 57038-050, Brazil",
+        "telefone":"(11) 98704-7050"
+    },
+    {
+        "nome":"Condomínio Village das Flores",
+        "endereco":"Condomínio Village das Flores, 322 - Benedito Bentes, Maceió - AL, 57084-154, Brazil",
+        "telefone":"(82) 99834-9918"
+    },
+    {
+        "nome":"Condomínio Jardim Tropical",
+        "endereco":"Av. Frei Damião de Bozano, 310 - Cidade Universitária, Maceió - AL, 57073-610, Brazil",
+        "telefone":"(82) 98177-1012"
+    },
+    {
+        "nome":"Condomínio Arte Vida",
+        "endereco":"R. Ariosvaldo Pereira Cintra, 504 - Gruta de Lourdes, Maceió - AL, 57052-580, Brazil",
+        "telefone":"(82) 3241-4497"
+    },
+    {
+        "nome":"Parque Petropolis 111 Residencial",
+        "endereco":"R. de Acesso, 1270 - Petropolis, Maceió - AL, 57062-593, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Bosque dos Jacarandás",
+        "endereco":"R. João Paulo I, 451 - Benedito Bentes, Maceió - AL, 57084-812, Brazil",
+        "telefone":"(82) 99356-5656"
+    },
+    {
+        "nome":"Condomínio Parque Mirante da Barra",
+        "endereco":"R. Santa Amália, 923 - São Jorge, Maceió - AL, 57044-086, Brazil",
+        "telefone":"(82) 99433-2844"
+    },
+    {
+        "nome":"Condo Reserve Bella Vista",
+        "endereco":"R. em Projeto O - Antares, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Parque Jatiúca",
+        "endereco":"R. Ver. Mironildes Vieira - Jatiúca, Maceió - AL, 57035-610, Brazil",
+        "telefone":"(82) 3313-7005"
+    },
+    {
+        "nome":"Condomínio Residencial Vivenda Do Alto",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 3639 - Santa Amélia, Maceió - AL, 57063-000, Brazil",
+        "telefone":"(82) 98812-5684"
+    },
+    {
+        "nome":"Condomínio Residencial Jardim das Palmeiras",
+        "endereco":"Av. Grand Jardim, 365 - Cidade Universitária, Maceió - AL, 57074-550, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Vila Bella",
+        "endereco":"R. Progresso, 1021 - Serraria, Maceió - AL, 57046-256, Brazil",
+        "telefone":"(82) 98883-7288"
+    },
+    {
+        "nome":"Mediterranean West condo",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 5278 - Santa Amélia, Maceió - AL, 57063-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Lagos do Francês",
+        "endereco":"AL-215, 58 - Cabreiras, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 97612-4545"
+    },
+    {
+        "nome":"Condomínio Residencial Recanto das Saíras",
+        "endereco":"R. Valter José Ferro Lima Filho, 17 - Antares, Maceió - AL, 57083-131, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Baía Dourada",
+        "endereco":"Av. Carlos Gomes de Barros, 396 - Tabuleiro do Martins, Maceió - AL, 57081-010, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Jardins De La Reina",
+        "endereco":"R. Marquês de Agra - Santa Amélia, Maceió - AL, 57063-709, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominium Corner Of Tales",
+        "endereco":"Condomínio Recanto dos Contos, 985 - Benedito Bentes, Maceió - AL, 57084-138, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Leste Oeste",
+        "endereco":"R. Ver. Antônio Cavalcante Lins, 136 - Mangabeiras, Maceió - AL, 57037-440, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Porto Manguaba",
+        "endereco":"215, km 04, Povoado, R. das Pedras, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Solemar",
+        "endereco":"Rua Moema RC Lopes 104, QG6 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Pedras do Atlântico",
+        "endereco":"R. Rodolfo Abreu, 313 - Cruz das Almas, Maceió - AL, 57038-160, Brazil",
+        "telefone":"(82) 93316-4258"
+    },
+    {
+        "nome":"Condomínio Vista do Vale",
+        "endereco":"R. Luiz Vieira dos Anjos, 442 - Serraria, Maceió - AL, 57046-831, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Ocean View Condo",
+        "endereco":"AL-101, 9383 - Jacarecica, Maceió - AL, 57038-640, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Costa da Luz Parque - Residencial Mar de Espanha",
+        "endereco":"Av. Carlos Gomes de Barros, 278 - Tabuleiro do Martins, Maceió - AL, 57081-010, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Recanto dos Rios",
+        "endereco":"Conde. Recanto dos Rios - R B, 35, Satuba - AL, 57120-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Brisas Mares Do Sul - Flex Residence",
+        "endereco":"Rod. Dr. Ib Gatto Marinho Falcão, 9513 - Povoado Campo Grande, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Jacarecica",
+        "endereco":"Av. Comendador Gustavo Paiva, 249 - Jacarecica, Maceió - AL, 57038-530, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residêncial Dhiana",
+        "endereco":"R. Joel Vieira dos Anjos, 400 - Feitosa, Maceió - AL, 57042-610, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio jarbas oiticia Jardim Petrópolis",
+        "endereco":"R. Eng. Isac Gondin, 106 - Jardim Petrópolis, Maceió - AL, 57080-670, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Esmeralda",
+        "endereco":"AL-210, 654 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Vert Paradiso Condo",
+        "endereco":"Av. Menino Marcelo, 7131 - Antares, Maceió - AL, 57083-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Recanto da Alegria",
+        "endereco":"Av. Prof. Paulo Bandeira, 07 - Nova Satuba, Satuba - AL, 57120-000, Brazil",
+        "telefone":"(82) 99404-9386"
+    },
+    {
+        "nome":"Condomínio Residencial Riviera Del Mare",
+        "endereco":"Av. Brigadeiro Eduardo Gomes de Brito, nº 1825 - Cruz das Almas, Maceió - AL, 57038-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Village da Alvorada",
+        "endereco":"Condomínio Village da Alvorada, 771 - Benedito Bentes, Maceió - AL, 57084-148, Brazil",
+        "telefone":"(82) 99842-0026"
+    },
+    {
+        "nome":"Condomínio Boca da Grota",
+        "endereco":"Condomínio do Edifício Boca da Grota - R. Des. Tenório, 225 - Farol, Maceió - AL, 57050-050, Brazil",
+        "telefone":"(82) 3221-0985"
+    },
+    {
+        "nome":"Condomínio Residencial Recanto das Águas",
+        "endereco":"Av. Em Projeto, Prefeito Antônio Lins de Souza, 03, Rio Largo - AL, 57120-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Morada da Garça",
+        "endereco":"AL-101 - Garça Torta, Maceió - AL, 57020-970, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Aldeia do Vale Residential",
+        "endereco":"Serraria, Maceió - State of Alagoas, 57046-566, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Germano Santos",
+        "endereco":"Av. Sebastião Corrêia da Rocha, 635 - Tabuleiro do Martins, Maceió - AL, 57061-410, Brazil",
+        "telefone":"(82) 3342-0574"
+    },
+    {
+        "nome":"Condo Villares I Eco",
+        "endereco":"Conj. Carajás II - Rua J, 75 - Serraria, Maceió - AL, 57046-480, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Horto Da Serraria",
+        "endereco":"Estr. do Gama, 1460 - Serraria, Maceió - AL, 57046-840, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio L'Altopiano",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 3336 - Santa Amélia, Maceió - AL, 57063-883, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Paraíso dos Corais",
+        "endereco":"AL-101, 5232, Paripueira - AL, 57935-000, Brazil",
+        "telefone":"(21) 99354-2732"
+    },
+    {
+        "nome":"Condomínio Residencial Recanto das Palmeiras",
+        "endereco":"Av. Em Projeto, Prefeito Antônio Lins de Souza, 01, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Vista do Atlântico",
+        "endereco":"Av. José Aírton Gondim Lamenha, 810 - São Jorge, Maceió - AL, 57044-098, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Bosque dos Ipês",
+        "endereco":"R. São Caetano, 86 - Benedito Bentes, Maceió - AL, 57084-079, Brazil",
+        "telefone":"(82) 98706-3615"
+    },
+    {
+        "nome":"Condomínio Bosque das Ubaias",
+        "endereco":"R. São Caetano, 175 - Benedito Bentes, Maceió - AL, 57084-079, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential Condominium Sun Valley",
+        "endereco":"Av. Gov. Afrânio Lages, 80 - Farol, Maceió - AL, 57050-015, Brazil",
+        "telefone":"(82) 99167-2264"
+    },
+    {
+        "nome":"Condominio Campo Belo",
+        "endereco":"Conj. Napoleao Viana, Rio Largo - State of Alagoas, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Bosque Das Palmeiras",
+        "endereco":"R. Vereador José Raimundo dos Santos, 95 - Benedito Bentes, Maceió - AL, 57084-440, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Barra Bali Beach Service",
+        "endereco":"Av. Leonita Cavalcante, 26 - Alto de São Marcos, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":"(82) 98841-0208"
+    },
+    {
+        "nome":"Mundaú Condomínio Clube",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 1280 - Santa Amélia, Maceió - AL, 57063-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Pátio",
+        "endereco":"R. dos Pinhais, 150 - Antares, Maceió - AL, 57083-060, Brazil",
+        "telefone":"(82) 99417-1300"
+    },
+    {
+        "nome":"Condomínio Laguna Heliport",
+        "endereco":"AL-101, 2074 - Lot. Clube Res., Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Jeune Ville",
+        "endereco":"Ipioca, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Ambiente",
+        "endereco":"Everaldo Lopes (Antigo Porto Grande), Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Milano 2",
+        "endereco":"condomínio milano - Av. Napoleão Viana, 2 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":"(82) 3313-3396"
+    },
+    {
+        "nome":"Residencial Porto Seguro",
+        "endereco":"Av. Enfermeira Noraci Pedrosa, 422 - Antares, Maceió - AL, 57083-060, Brazil",
+        "telefone":"(82) 3354-0005"
+    },
+    {
+        "nome":"Residential Condominium Eden Rivers",
+        "endereco":"R. Dep. José Lages, 1230 - Ponta Verde, Maceió - AL, 57035-330, Brazil",
+        "telefone":"(82) 3327-0607"
+    },
+    {
+        "nome":"Condo Tarcísio de Jesus",
+        "endereco":"R. São Francisco, 1491 - Ouro Preto, Maceió - AL, 57045-840, Brazil",
+        "telefone":"(82) 3328-8654"
+    },
+    {
+        "nome":"Residencial Vila Madalena",
+        "endereco":"Av. Lourival Melo Mota, 13621 - Santos Dumont, Maceió - AL, 57075-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial San Francisco",
+        "endereco":"Av. Comendador Gustavo Paiva, 3438 - Mangabeiras, Maceió - AL, 57037-532, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Mangabeiras",
+        "endereco":"Av. Comendador Gustavo Paiva, 2220 - Mangabeiras, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Setúbal",
+        "endereco":"Conj. Três Irmãos - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Bella Vista",
+        "endereco":"R. Condomínio Bella Vista, 451 - Jacintinho, Maceió - AL, 57040-780, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conjunto Cittá Antônio Lins",
+        "endereco":"Condomínio Citta Antônio Lins - 1000, BR, 104, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Maria Tenório de Lima",
+        "endereco":"R. Jundiá, 366-A - Canaã, Maceió - AL, 57080-050, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Lúcio Costa",
+        "endereco":"Alameda Guiomar Omena, 697 - Petropolis, Maceió - AL, 57062-570, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Arvoredo",
+        "endereco":"Conj. São José, 108 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Alto da Boa Vista",
+        "endereco":"R. Jose Fragoso de Omena, 1 - São Jorge, Maceió - AL, 57044-131, Brazil",
+        "telefone":"(82) 99418-1620"
+    },
+    {
+        "nome":"Residencial Monte Carlo",
+        "endereco":"Residencial Monte Carlo - Antares, Maceió - AL, 57083-062, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Antares",
+        "endereco":"R. Des. Carlos de Gusmão, 344-472 - Santa Lúcia, Maceió - AL, 57083-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Recanto das Estrelas",
+        "endereco":"Av. Antônio Lisboa de Amorim, 524 - Cidade Universitária, Maceió - AL, 57074-215, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Taquary",
+        "endereco":"Av. Pres. Fernando Afonso Collor de Mello, 1000 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential II Passione",
+        "endereco":"R. José Augusto Lessa, 110 - Cidade Universitária, Maceió - AL, 57072-800, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Garden Ville Residencial",
+        "endereco":"R. Lourival de Águiar Pessoa - Serraria, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Maceió 1",
+        "endereco":"Res. Maceió I, QD N - Cidade Universitária, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential Green Valley 1",
+        "endereco":"Travessa Presidente Getúlio Vargas, 473 - Serraria, Maceió - AL, Brazil",
+        "telefone":"(98) 7969-2120"
+    },
+    {
+        "nome":"Conjunto Residencial Tabuleiro dos Martins",
+        "endereco":"Av. Menino Marcelo, 1391 - Cidade Universitária, Maceió - AL, 57073-460, Brazil",
+        "telefone":"(82) 3372-4203"
+    },
+    {
+        "nome":"🌻Residencial Margarida🌻",
+        "endereco":"R. Tres Ltm Terra de Utinga - Margarida Procópio, Rio Largo - AL, 57120-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Dom Helder Câmara",
+        "endereco":"Av. Galba Novas de Castro, 881 - Petropolis, Maceió - AL, 57062-590, Brazil",
+        "telefone":"(82) 99911-0023"
+    },
+    {
+        "nome":"Entremares Residencial",
+        "endereco":"Av. Penedo, 180 - Cruz das Almas, Maceió - AL, 57038-420, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Mário Peixoto ll",
+        "endereco":"Av. Eng. Corintho Campelo da Paz, 100 - Santos Dumont, Maceió - AL, 57075-440, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Safira Residencial",
+        "endereco":"R. das Canas - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Parque Petrópolis II",
+        "endereco":"R. de Acesso, 894 - Petropolis, Maceió - AL, 57062-592, Brazil",
+        "telefone":"(82) 99665-7191"
+    },
+    {
+        "nome":"Residencial Alvorada",
+        "endereco":"R. em Projeto O, 673 - n° 371 - Antares, Maceió - AL, 57048-164, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Santa Lucia",
+        "endereco":"R. Des. Carlos de Gusmão, 314-342 - Santa Lúcia, Maceió - AL, 57083-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Denison Amorim QD 49",
+        "endereco":"Rua Lucíla Toledo - Cajueiro, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Galápagos",
+        "endereco":"Av. Belmiro Amorim, 26 - Santa Lúcia, Maceió - AL, 57082-000, Brazil",
+        "telefone":"(82) 99953-0075"
+    },
+    {
+        "nome":"Residencial Lago Sul 3 B17",
+        "endereco":"Rancho Espírito Santo, 2-28, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Kaa Residencial",
+        "endereco":"AL-101 - Jacarecica, Maceió - AL, 57038-640, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"RESIDENCIAL PARQUE RIO RESIDENCE",
+        "endereco":"R. Dr. Juvino Lins Lira, 255 - Pref Antônio L Souza, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Andaluz",
+        "endereco":"R. Santa Amália, 40 - São Jorge, Maceió - AL, 57044-020, Brazil",
+        "telefone":"(82) 98819-7605"
+    },
+    {
+        "nome":"Residencial Allegro - Bloco 4",
+        "endereco":"Av. Sebastião Corrêia da Rocha - Tabuleiro do Martins, Maceió - AL, 57061-190, Brazil",
+        "telefone":"(82) 99180-3773"
+    },
+    {
+        "nome":"Residencial Recanto dos Coqueirais",
+        "endereco":"Recanto dos Coqueirais, Satuba - AL, 57120-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial ALPHA JARDINS",
+        "endereco":"Av. José Manhães, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":"(82) 3026-7956"
+    },
+    {
+        "nome":"Residencial Parque Paraíso das Águas",
+        "endereco":"Av. Dr. Milton Hênio Netto De Gouveia, 288 - Antares, Maceió - AL, 57048-719, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Coitadolândia",
+        "endereco":"Av. Napoleão Viana - Loteamento Vila Rica, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominio Residencial Shagrilá 3",
+        "endereco":"R. Dr. Francisco Gazaneo, 282 - Feitosa, Maceió - AL, 57042-270, Brazil",
+        "telefone":"(82) 99920-0500"
+    },
+    {
+        "nome":"Residencial Mont Serrat",
+        "endereco":"R. Claúdia - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Orion Antares",
+        "endereco":"R. Profa. Olindina Pereira da Silva, 119 - Antares, Maceió - AL, 57083-170, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Recanto dos Vales",
+        "endereco":"Av. Prof. Paulo Bandeira, 13 - Centro, Satuba - AL, 57120-000, Brazil",
+        "telefone":"(82) 99429-2091"
+    },
+    {
+        "nome":"Condomínio Residencial Recanto das Lagoas, rua B 51",
+        "endereco":"Av. Prof. Paulo Bandeira, 06, Satuba - AL, 57120-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Vila Do Sol Durville",
+        "endereco":"Av. 14 Osman, R. Seis, 157 - Clima Bom, Maceió - AL, 57071-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial San Nicolas",
+        "endereco":"Condomínio San Nicolas - Serraria, Maceió - AL, 57046-360, Brazil",
+        "telefone":"(82) 3317-5521"
+    },
+    {
+        "nome":"Condomínio Reserva do Vale",
+        "endereco":"Av. Menino Marcelo, 2700 - Barro Duro, Maceió - AL, 57046-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"GRAND JARDIM DOS PINHEIROS",
+        "endereco":"Loteamento, Av. Grand Jardim - Cidade Universitária, Maceió - AL, 57072-256, Brazil",
+        "telefone":"(82) 99955-1779"
+    },
+    {
+        "nome":"Condomínio Enseada da Lagoa",
+        "endereco":"Av. Anatólio de Oliveira, 15, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Napoli",
+        "endereco":"R. João Paulo II, 21 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio São Domingos",
+        "endereco":"R. A, 428-692 - Jacintinho, Maceió - AL, 57040-690, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Jardim do Horto II",
+        "endereco":"R. Cedro, 73 - Gruta de Lourdes, Maceió - AL, 57052-820, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominium Corner Of Colors",
+        "endereco":"residencial recanto das cores - Benedito Bentes, Maceió - AL, 57084-142, Brazil",
+        "telefone":"(82) 98809-4528"
+    },
+    {
+        "nome":"Melville",
+        "endereco":"R. Dr. Manoel Machado, 5 - Santa Amélia, Maceió - AL, 57070-020, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Rancho Bom",
+        "endereco":"R. Hilda de Pereira Monte - Petropolis, Maceió - AL, 57062-585, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Alta Vista 1 - Barra de São Miguel",
+        "endereco":"R. Sd. Seis, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":"(82) 99331-7977"
+    },
+    {
+        "nome":"Condomínio Altavistta",
+        "endereco":"Barra de São Miguel - State of Alagoas, 57180-000, Brazil",
+        "telefone":"(82) 3272-1159"
+    },
+    {
+        "nome":"Condomínio Morada dos Palmares",
+        "endereco":"R. Bancário Antenor Bitencourt - Tabuleiro do Martins, Maceió - AL, 57061-170, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Graciliano condominium Park",
+        "endereco":"R. Nilson Urias, 172 - Cidade Universitária, Maceió - AL, 57073-342, Brazil",
+        "telefone":"(82) 99694-4348"
+    },
+    {
+        "nome":"Condomínio Praia De Águas Mansas",
+        "endereco":"708, R. da Igreja, 698, Paripueira - AL, 57935-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Brisa do Vale",
+        "endereco":"Av. Pres. Getúlio Vargas, 1831 - Serraria, Maceió - AL, 57046-840, Brazil",
+        "telefone":"(82) 3316-0750"
+    },
+    {
+        "nome":"Condominio Reserva dos Milagres.",
+        "endereco":"São Miguel dos Milagres - State of Alagoas, 57940-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Porto Milazzo",
+        "endereco":"R. do Aurelino, 1464 - Tabuleiro do Pinto, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":"(82) 98221-6013"
+    },
+    {
+        "nome":"Condo Grand Bahamas",
+        "endereco":"Quebra Cachimbo, Barra de São Miguel - State of Alagoas, 57180-000, Brazil",
+        "telefone":"(82) 3272-1846"
+    },
+    {
+        "nome":"Santa Cecília Residence",
+        "endereco":"R. Pôrto Grande, 153 - Estiva, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 98148-3693"
+    },
+    {
+        "nome":"GRAND JARDIM DOS ANTÚRIOS",
+        "endereco":"Residencial Grand Jardim Dos Antúrios 275 CEP 57072-471 - Cidade Universitária, Maceió - AL, Brazil",
+        "telefone":"(82) 99380-1397"
+    },
+    {
+        "nome":"GRAND JARDIM DOS GIRASSÓIS",
+        "endereco":"R. Dr. Cleantho de Moura Rizzo, 122 - Cidade Universitária, Maceió - AL, 57072-815, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Bosque Da Serraria",
+        "endereco":"R. Gen. João José Batista Tubino, 66-168 - Serraria, Maceió - AL, 57046-080, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residêncial Paradiso II",
+        "endereco":"R. Nova, 257 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":"(82) 98743-4763"
+    },
+    {
+        "nome":"Residencial Porto Grande II",
+        "endereco":"R. Vila Altina, 316 - Everaldo Lopes (Antigo Porto Grande), Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Bosque Das Bromelias",
+        "endereco":"R. Luiz Vieira dos Anjos - Serraria, Maceió - AL, 57046-480, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Orion Residence",
+        "endereco":"R. Ariosvaldo Pereira Cintra - Serraria, Maceió - AL, 57046-295, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Grand Jardim Pau Brasil",
+        "endereco":"Cidade Universitária, Maceió - State of Alagoas, Brazil",
+        "telefone":"(82) 99398-6034"
+    },
+    {
+        "nome":"Condomínio Bosque dos Coqueiros",
+        "endereco":"R. Profa. Noêmia Gama Ramalho, 55 - Jacarecica, Maceió - AL, 57038-620, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condo Grand Cayman",
+        "endereco":"Quebra Cachimbo, Barra de São Miguel - State of Alagoas, 57180-000, Brazil",
+        "telefone":"(82) 99643-4151"
+    },
+    {
+        "nome":"GRAND JARDIM DOS FLAMBOYANTS",
+        "endereco":"Av. Dr. Manoel Valente de Lima, 175 - Cidade Universitária, Maceió - AL, 57072-259, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Green Park",
+        "endereco":"C86H+G8 - Guaxuma, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential Garden of Ipês",
+        "endereco":"Av. Dr. Manoel Valente de Lima, 132 - Cidade Universitária, Maceió - AL, 57072-245, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Pátio Alvorada",
+        "endereco":"R. Santa Mariana, 821 - Antares, Maceió - AL, 57083-060, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Iloa Residence",
+        "endereco":"R. Bm Setenta e Sete, 190 - Piaçavas, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edificio Torre Norte",
+        "endereco":"Av. Comendador Gustavo Paiva, 5216 - Cruz das Almas, Maceió - AL, Brazil",
+        "telefone":"(82) 98855-0224"
+    },
+    {
+        "nome":"Residencial Torres de Trindade",
+        "endereco":"R. Gov. Francisco Mello - Antares, Maceió - AL, 57083-112, Brazil",
+        "telefone":"(82) 99311-5149"
+    },
+    {
+        "nome":"Maceió Facilities Torre Blue",
+        "endereco":"Rua Dr. Pompeu Sarmento, 778-850 - Ponta Verde, Maceió - AL, 57035-340, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Ed. Las Torres",
+        "endereco":"R. José Carneiro da Cunha Sarmento, 111 - Jatiúca, Maceió - AL, 57036-630, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Carpe Diem Residencial Clube",
+        "endereco":"Rua do Sabor de Minas, LT10 QD B - Praia do Francês, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 4141-9595"
+    },
+    {
+        "nome":"Lagoa Manguaba Condomínio Clube",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 1218 - Santa Amélia, Maceió - AL, 57063-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Vale Verde Clube II",
+        "endereco":"Travessa Presidente Getúlio Vargas, 500 - Serraria, Maceió - AL, 57046-300, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Lot. Clube Res.",
+        "endereco":"Lot. Clube Res., Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Ana lins",
+        "endereco":"R. Dep. José Lages, 658 - Ponta Verde, Maceió - AL, 57035-330, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Grand Pátio Club Residence I",
+        "endereco":"Rua 10, Conj. Village Campestre, I, 03 - Cidade Universitária, Maceió - AL, 57073-031, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Fergus Club Residence",
+        "endereco":"Av. Pio XII, 453 - Jatiúca, Maceió - AL, 57035-560, Brazil",
+        "telefone":"(82) 99951-1998"
+    },
+    {
+        "nome":"Grand Pátio Club Residence II",
+        "endereco":"Av. Menino Marcelo, 2091 - Cidade Universitária, Maceió - AL, 57073-470, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Clube Atalaia",
+        "endereco":"R. Francisco Rabêlo Leite Neto, 500 - Atalaia, Aracaju - SE, 49037-240, Brazil",
+        "telefone":"(79) 99821-1857"
+    },
+    {
+        "nome":"Condomínio Riviera Francesa",
+        "endereco":"AL-215, 4073 - Lot. Trevo do Frances, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 99666-2256"
+    },
+    {
+        "nome":"Dellavia Park Club",
+        "endereco":"Av. Muniz Falcão, 375 - Barro Duro, Maceió - AL, 57045-300, Brazil",
+        "telefone":"(82) 99100-4782"
+    },
+    {
+        "nome":"Condomínio Sueca Residence Club",
+        "endereco":"R. Jardim Brasília - União dos Palmares, AL, 57800-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Dom Pietro Residencial Beach Club",
+        "endereco":"Rua São Pedro, 710 - Garça Torta, Maceió - AL, 57039-020, Brazil",
+        "telefone":"(82) 98851-8128"
+    },
+    {
+        "nome":"Residencial Clube do Parque",
+        "endereco":"Av. Cap. Joaquim Martins Fontes, 324 - Farolândia, Aracaju - SE, 49032-016, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Dojô Eline Rozendo",
+        "endereco":"Condomínio Residencial Recanto dos Rios - Nova Satuba, Satuba - AL, 57120-000, Brazil",
+        "telefone":"(82) 99952-7886"
+    },
+    {
+        "nome":"Hibiscus Beach Club | Maceió",
+        "endereco":"Residencial Angra de Ipioca, AL-101 - Ipioca, Maceió - AL, 57039-705, Brazil",
+        "telefone":"(82) 3142-0910"
+    },
+    {
+        "nome":"AL-101, 5000 - Loteamento Clube Residencial, AL, Brasil",
+        "endereco":"Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Denison Amorim",
+        "endereco":"Fazenda Barreiros, Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential Vita Club",
+        "endereco":"R. Jorge de Lima, 245 - Imbiribeira, Recife - PE, 51160-070, Brazil",
+        "telefone":"(81) 3031-3952"
+    },
+    {
+        "nome":"Park Shopping Residencial",
+        "endereco":"Av. Menino Marcelo, 140 - BL 01, AP 102 - Cidade Universitária, Maceió - AL, 57073-470, Brazil",
+        "telefone":"(82) 99111-5600"
+    },
+    {
+        "nome":"Edifício Lyon",
+        "endereco":"R. Sen. Rui Palmeira, 730 - Ponta Verde, Maceió - AL, 57035-250, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominio Vista Lagoa",
+        "endereco":"Rod. Dr. Ib Gatto Marinho Falcão, 8023 - Barra Nova, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Barra nova",
+        "endereco":"R. Beira da Lagoa, 66, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Casa Grande Angra de Ipioca",
+        "endereco":"Residencial Angra de Ipioca, 1111 - Qd D Lote 14 - Ipioca, Maceió - AL, 57039-700, Brazil",
+        "telefone":"(82) 98830-4006"
+    },
+    {
+        "nome":"Mercado 101",
+        "endereco":"Rod. Dr. Ib Gatto Marinho Falcão - Lot. Clube Res., Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Grand Pátio Club Residence 1",
+        "endereco":"Rua Em Projeto, 10 - Cidade Universitária, Maceió - AL, 57083-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Clube Jardins",
+        "endereco":"R. Lourival Chagas, 143 - Grageru, Aracaju - SE, 49025-390, Brazil",
+        "telefone":"(79) 3041-7028"
+    },
+    {
+        "nome":"Condomínio Residencial Club Gameleira",
+        "endereco":"Av. Siqueira Campos, 940-1030, São José da Coroa Grande - PE, 55565-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Piet Mondrian",
+        "endereco":"R. São Francisco de Assis, 340A - Jatiúca, Maceió - AL, 57035-680, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Mirante Garden",
+        "endereco":"R. Esther Silveira Costa, 18 - Farol, Maceió - AL, 57051-100, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Clube do Automóvel",
+        "endereco":"Rua Nossa Senhora da Saúde, 551 - Cordeiro, Recife - PE, 50731-020, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Ipioca Beach Residence",
+        "endereco":"AL-101, 649 - Residence - Ipioca, Maceió - AL, 57039-700, Brazil",
+        "telefone":"0800 591 2454"
+    },
+    {
+        "nome":"Tio Paulo",
+        "endereco":"AL-101 - Lot. Clube Res., Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 98153-8069"
+    },
+    {
+        "nome":"Residencial Acquaville portaria 2",
+        "endereco":"AL-101, 1251, Paripueira - AL, 57935-000, Brazil",
+        "telefone":"(82) 99635-3764"
+    },
+    {
+        "nome":"Reserva Porangatu",
+        "endereco":"AL-101, Passo de Camaragibe - AL, 57930-000, Brazil",
+        "telefone":"(82) 3313-9870"
+    },
+    {
+        "nome":"HYPERVANSE LTDA",
+        "endereco":"R. Dep. José Lages, 1139 - Ponta Verde, Maceió - AL, 57035-330, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Club Gameleira",
+        "endereco":"PE-060, 85, São José da Coroa Grande - PE, 55565-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Cadoz",
+        "endereco":"Av. Brigadeiro Eduardo Gomes de Brito, 1517 - Cruz das Almas, Maceió - AL, 57038-230, Brazil",
+        "telefone":"(82) 3235-2544"
+    },
+    {
+        "nome":"More Residential Club",
+        "endereco":"R. Prof. Henrique Costa, 950 - Pechincha, Rio de Janeiro - RJ, 22770-234, Brazil",
+        "telefone":"(21) 3546-1467"
+    },
+    {
+        "nome":"Condomínio Jardins do Frio",
+        "endereco":"R. Veneza, 110 - Centro, Paulista - PE, 53401-105, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Studio Design 2 - Tannat",
+        "endereco":"Rua Professora Nadyr Maia Gomes Rego, 158 - Jatiúca, Maceió - AL, 57036-760, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Cond. Vivence Islands",
+        "endereco":"R. Luiz Vieira dos Anjos, 208 - Serraria, Maceió - AL, 57046-831, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Aqua Clube Residencial",
+        "endereco":"R. Clóvis Faustino dos Santos - Malvinas, Campina Grande - PB, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edificio Kairos",
+        "endereco":"R. Áureliano Teixeira de Vasconcelos, 65 - Jatiúca, Maceió - AL, 57036-430, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Racine",
+        "endereco":"Av. José Aírton Gondim Lamenha, 541 - São Jorge, Maceió - AL, 57038-570, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Aqua Clube Residencial",
+        "endereco":"R. Manila, 90 - Estrela Dalva, Belo Horizonte - MG, 30575-010, Brazil",
+        "telefone":"(31) 3378-3449"
+    },
+    {
+        "nome":"Ethos Residence",
+        "endereco":"Av. Eraldo Lins Cavalcante, 228 - Serraria, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Recanto do Angra",
+        "endereco":"Residencial Angra de Ipioca, AL-101, N - Ipioca, Maceió - AL, 57039-700, Brazil",
+        "telefone":"(82) 99907-2025"
+    },
+    {
+        "nome":"Casa Charmosa Ipioca",
+        "endereco":"Residencial Angra de - AL-101, 1111 - Ipioca, Maceió - AL, 57039-700, Brazil",
+        "telefone":"(82) 99682-7732"
+    },
+    {
+        "nome":"Condomínio Antônio Coutinho",
+        "endereco":"R. São Francisco, 1504 - Ouro Preto, Maceió - AL, 57045-838, Brazil",
+        "telefone":"(82) 99628-0078"
+    },
+    {
+        "nome":"Building Monte Paradiso",
+        "endereco":"Condomínio Ed. Monte Paradiso - R. Dr. Antônio Cansanção, 380 - Ponta Verde, Maceió - AL, 57035-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Varandas do Alto",
+        "endereco":"Av. Aristeu de Andrade, 370 - Farol, Maceió - AL, 57051-090, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Pier 640",
+        "endereco":"Av. Walter Ananias, 656 - Poço, Maceió - AL, 57025-510, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Varandas do Horto",
+        "endereco":"R. Antônio Barbosa, 23 - Gruta de Lourdes, Maceió - AL, 57052-710, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício New Life",
+        "endereco":"R. Dr. Antônio Cansanção, 92 - Ponta Verde, Maceió - AL, 57035-190, Brazil",
+        "telefone":"(82) 99431-1847"
+    },
+    {
+        "nome":"Edifício José Aprigio Vilela",
+        "endereco":"Av. Prof. Vital Barbosa, 268 - Ponta Verde, Maceió - AL, 57035-400, Brazil",
+        "telefone":"(82) 3235-6620"
+    },
+    {
+        "nome":"Residencial Bosque das Casuarinas",
+        "endereco":"Av. Geraldo Bulhões, 95 - Benedito Bentes, Maceió - AL, 57085-060, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Mirante da Lagoa",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 3200 - Santa Amélia, Maceió - AL, 57063-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Cote D'Azur Apartamento Beira Mar Maceió",
+        "endereco":"Av. Álvaro Otacílio, 3567 - Sala 08 - Jatiúca, Maceió - AL, 57035-180, Brazil",
+        "telefone":"(82) 3231-8682"
+    },
+    {
+        "nome":"Residencial Grand Planalto",
+        "endereco":"R. Joao Vieira Chagas, 695 - Serraria, Maceió - AL, Brazil",
+        "telefone":"(82) 99951-0080"
+    },
+    {
+        "nome":"Edifício Monte Volpine",
+        "endereco":"R. Durval Guimarães, 941 - Ponta Verde, Maceió - AL, 57035-060, Brazil",
+        "telefone":"(82) 99911-4548"
+    },
+    {
+        "nome":"Residencial Jardim Primavera",
+        "endereco":"R. Santa Mariana, 242 - Antares, Maceió - AL, 57083-630, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Grand Parc Farol",
+        "endereco":"Av. Dom Antônio Brandão, 384 - Farol, Maceió - AL, 57051-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Bossa Nova",
+        "endereco":"Av. Dr. Antônio Gomes de Barros, 79 - Jatiúca, Maceió - AL, 57036-000, Brazil",
+        "telefone":"(82) 3027-7938"
+    },
+    {
+        "nome":"Edifício Piazza D'Italia",
+        "endereco":"R. Ruthe Reis, 79 - Poço, Maceió - AL, 57025-891, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential Garden Siena",
+        "endereco":"258 060, Av. Cel. Salustiano Sarmento, 60 - CEP 57.044-060 - São Jorge, Maceió - AL, 57044-060, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Race",
+        "endereco":"Av. José Aírton Gondim Lamenha, 26 - São Jorge, Maceió - AL, 57044-098, Brazil",
+        "telefone":"(82) 99604-0041"
+    },
+    {
+        "nome":"Edifício Maria Clara Nobre",
+        "endereco":"R. Íris Alagoense, 281 - Farol, Maceió - AL, 57051-370, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominio Alamedas das Mangabeiras",
+        "endereco":"Av. Dr. Mario Nunes Viêira, 900 - Mangabeiras, Maceió - AL, 57037-580, Brazil",
+        "telefone":"(82) 98842-1579"
+    },
+    {
+        "nome":"Condomínio Parque das Mangueiras",
+        "endereco":"R. Estatístico Teixeira de Freitas, 246 - Pinheiro, Maceió - AL, 57055-660, Brazil",
+        "telefone":"(82) 98131-9256"
+    },
+    {
+        "nome":"Edifício Fiori",
+        "endereco":"R. Dr. Luís de Mascarenhas, 160 - Farol, Maceió - AL, 57055-030, Brazil",
+        "telefone":"(82) 3316-4958"
+    },
+    {
+        "nome":"Residencial Ib Gatto Falcão",
+        "endereco":"Av. Dom Antônio Brandão, 239 - b apto - Farol, Maceió - AL, 57051-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Rayon",
+        "endereco":"Av. Prof. Sandoval Arroxelas, 295 - Ponta Verde, Maceió - AL, 57035-230, Brazil",
+        "telefone":"(82) 3231-3045"
+    },
+    {
+        "nome":"Varandas do Parque",
+        "endereco":"Av. Tancredo Neves, 335 - Santos Dumont, Maceió - AL, 57075-560, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Paulino I",
+        "endereco":"Av. Muniz Falcão, 205 - apt 203 bloco B - Barro Duro, Maceió - AL, 57045-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condo Pier 750",
+        "endereco":"Rua Dr. Zeferino Rodrigues, 315 - Poço, Maceió - AL, 57025-043, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Morada das Artes",
+        "endereco":"R. Maria Ramos de Lima, 72 - Antares, Maceió - AL, 57048-360, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Jardim Maceió",
+        "endereco":"Rua das mangueiras, 50 - Cidade Universitária, Maceió - AL, 57074-090, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Aldepark",
+        "endereco":"R. da Nise da Silveira, 45 - Antares, Maceió - AL, 57048-359, Brazil",
+        "telefone":"(82) 98704-7610"
+    },
+    {
+        "nome":"Residencial Park Boa Vista",
+        "endereco":"Rua Coronel - R. Ebenezer de Oliveira Frias, 368 - São Jorge, Maceió - AL, 57044-130, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Ritz Residence",
+        "endereco":"R. Padre Luiz Américo Galvão, 23 - Lagoa da Anta, Maceió - AL, 57038-140, Brazil",
+        "telefone":"(82) 2121-4160"
+    },
+    {
+        "nome":"Edifício Santorini",
+        "endereco":"Av. Dr. José Sampaio Luz, 1266 - Ponta Verde, Maceió - AL, 57035-260, Brazil",
+        "telefone":"(82) 3235-5744"
+    },
+    {
+        "nome":"Condomínio Arnon de Mello Quadra 2. ENTRADA A",
+        "endereco":"Tv. Isabelle Gondim Lima - Jatiúca, Maceió - AL, 57025-263, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Artemísia - Portaria A",
+        "endereco":"R. Sen. Rui Palmeira, 26 - Feitosa, Maceió - AL, 57043-140, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Artemísia . Portaria B",
+        "endereco":"R. Sen. Rui Palmeira, 1359 - Feitosa, Maceió - AL, 57043-200, Brazil",
+        "telefone":"(82) 98873-6355"
+    },
+    {
+        "nome":"Terraces Condominium Da Barra",
+        "endereco":"R. José Vieira de Andrade, 328 - Alto de São Marcos, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":"(82) 99100-4782"
+    },
+    {
+        "nome":"Condomínio Morada das Árvores",
+        "endereco":"R. Prof. José da Silveira Camerino, 290 - Pinheiro, Maceió - AL, 57055-630, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominio Arnon de Mello Quadra 2 ENTRADA B",
+        "endereco":"R. Sd. Eduardo dos Santos - Jatiúca, Maceió - AL, 57035-676, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Firenze Villagio condo",
+        "endereco":"Av. Comendador Gustavo Paiva, 5115 - Cruz das Almas, Maceió - AL, 57038-000, Brazil",
+        "telefone":"(82) 3325-4255"
+    },
+    {
+        "nome":"Vila Caiena - São Miguel dos Milagres",
+        "endereco":"Beverly Hills, 37, São Miguel dos Milagres - AL, 57940-000, Brazil",
+        "telefone":"(82) 98878-5872"
+    },
+    {
+        "nome":"Residencial Praias Belas",
+        "endereco":"R. Silva Sampaio, 200 - Poço, Maceió - AL, 57025-060, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Cidade Jardim",
+        "endereco":"818, Av. Maceió, 397 - Tabuleiro do Martins, Maceió - AL, 57061-110, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Villa Kanui",
+        "endereco":"Beverly Hills, 2 - Rural, São Miguel dos Milagres - AL, 57960-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Canto dos Pássaros",
+        "endereco":"R. Zacarias de Azevedo, 1005 - Prado, Maceió - AL, 57010-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Good Life",
+        "endereco":"Residencial Good Life - R. Mal. Antônio Guedes Muniz, 121 - Jatiúca, Maceió - AL, 57036-670, Brazil",
+        "telefone":"(82) 3311-9831"
+    },
+    {
+        "nome":"Complexo de Apartamento Portal da Gruta",
+        "endereco":"R. Durval Gomes de Melo, 17 - Gruta de Lourdes, Maceió - AL, 57052-885, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Oiticica 2 658",
+        "endereco":"R. Joana Darc, 299 - Benedito Bentes, Maceió - AL, 57073-510, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Open Door Apartamentos por Temporada",
+        "endereco":"R. Gen. João Saleiro Pitão - Ponta Verde, Maceió - AL, 57035-210, Brazil",
+        "telefone":"(82) 99632-4494"
+    },
+    {
+        "nome":"Residencial Mata dos Colibris",
+        "endereco":"R. São Luiz, 400 - Petropolis, Maceió - AL, 57062-760, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Studio Design 3 - Lions",
+        "endereco":"R. Geraldo Patury Accioly, 110 - Pajuçara, Maceió - AL, 57030-005, Brazil",
+        "telefone":"(82) 99326-9373"
+    },
+    {
+        "nome":"Residencial Sierra Park",
+        "endereco":"R. Adolfo Gustavo, 316 - Serraria, Maceió - AL, 57046-341, Brazil",
+        "telefone":"(82) 99157-8074"
+    },
+    {
+        "nome":"Condomínio Residencial Jardins Alvorada 2",
+        "endereco":"R. Braulio Feliciano - Tabuleiro do Martins, Maceió - AL, 57081-020, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Sky Concept",
+        "endereco":"R. Comerc. José Pontes de Magalhães, 222 - Jatiúca, Maceió - AL, 57036-250, Brazil",
+        "telefone":"(82) 98235-0101"
+    },
+    {
+        "nome":"Vila Naval",
+        "endereco":"Av. Walter Ananias, 734 - Jaraguá, Maceió - AL, 57025-510, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial maravilha",
+        "endereco":"Av. Prof. Santos Ferraz, 213 - Poço, Maceió - AL, 57025-040, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Antônio Rocha",
+        "endereco":"Tv. da Floresta, 213 - Tabuleiro do Martins, Maceió - AL, 57060-082, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Venusia Oliveira",
+        "endereco":"Rua Paulina Maria de Mendonça, 1238 - Mangabeiras, Maceió - AL, 57035-557, Brazil",
+        "telefone":"(82) 99977-0031"
+    },
+    {
+        "nome":"Condomínio Residencial Allegro",
+        "endereco":"Av. Sebastião Corrêia da Rocha, 1113 - Tabuleiro do Martins, Maceió - AL, 57061-410, Brazil",
+        "telefone":"(82) 98733-8374"
+    },
+    {
+        "nome":"Edifício Horto Boulevard",
+        "endereco":"R. Azarias de Carvalho Gama, 310 - Gruta de Lourdes, Maceió - AL, 57052-800, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conjunto Parque dos Caetés",
+        "endereco":"Av. Caetés, 163 - Benedito Bentes, Maceió - AL, 57086-478, Brazil",
+        "telefone":"(82) 99415-4355"
+    },
+    {
+        "nome":"Edifício Liv Residence",
+        "endereco":"Av. Prof. Vital Barbosa, 769 - Ponta Verde, Maceió - AL, 57035-400, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Vista Do Mar",
+        "endereco":"R. Des. Tenório, 226 - Farol, Maceió - AL, 57050-050, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominio Parque Barra Grande",
+        "endereco":"Av. Dr. Milton Hênio Netto De Gouveia, 550 - Antares, Maceió - AL, 57083-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício New Time",
+        "endereco":"Av. Dr. Antônio Gouveia, 23 - Pajuçara, Maceió - AL, 57030-170, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Alameda Pajuçara",
+        "endereco":"F775+63 - Benedito Bentes, Maceió - AL, 57085-590, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Mandala",
+        "endereco":"Condomínio do Edifício Mandala - R. Eng. Mário de Gusmão, 316 - Ponta Verde, Maceió - AL, 57035-000, Brazil",
+        "telefone":"(82) 3377-3648"
+    },
+    {
+        "nome":"Conjunto Residencial São Francisco",
+        "endereco":"Rio Novo, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Sorrento",
+        "endereco":"Ed Sorrento - R. Hugo Corrêa Paes, 660 - Gruta de Lourdes, Maceió - AL, 57052-827, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial industrial Luiz dos Anjos",
+        "endereco":"R. Luiz Vieira dos Anjos, 600 - Serraria, Maceió - AL, 57046-831, Brazil",
+        "telefone":"(82) 99983-8981"
+    },
+    {
+        "nome":"Edf Cadore",
+        "endereco":"R. Sen. Rui Palmeira, 260 - Ponta Verde, Maceió - AL, 57035-250, Brazil",
+        "telefone":"(82) 99957-0378"
+    },
+    {
+        "nome":"Mahí Patacho",
+        "endereco":"57945, 000 - Porto de Pedras, AL, 57945-000, Brazil",
+        "telefone":"(11) 93355-1800"
+    },
+    {
+        "nome":"Edifício Maria Bernadete Sampaio",
+        "endereco":"R. Walfrido Rocha, 181 - Jatiúca, Maceió - AL, 57036-800, Brazil",
+        "telefone":"(82) 99673-3332"
+    },
+    {
+        "nome":"CONJUNTO MEDEIROS NETO I, SANTA AMELIA, MACEIO AL",
+        "endereco":"Cj. Medeiros Neto - Santa Amélia, Maceió - AL, 57061-620, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Villa do Sossego",
+        "endereco":"Riacho Doce, 46 - Riacho Doce, Maceió - AL, 57039-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Diana Simon",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 374 - Santa Amélia, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conjunto Castelo Branco",
+        "endereco":"Tv. Santo Amaro, 335 - Jatiúca, Maceió - AL, 57037-970, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conjunto Maceió 1",
+        "endereco":"Av José Moura Rocha, 3i - Cidade Universitária, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Goiti",
+        "endereco":"Jatiúca, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Erick Ferraz",
+        "endereco":"Poeira, Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Arte Vida 2",
+        "endereco":"Av. Pres. Getúlio Vargas, 159 - Serraria, Maceió - AL, 57046-140, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Aquarius",
+        "endereco":"R. Apolônia Rocha dos Santos, 20 - Jacintinho, Maceió - AL, 57042-040, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Bernardo Oiticica",
+        "endereco":"Av. Sebastião Corrêia da Rocha - Tabuleiro do Martins, Maceió - AL, 57061-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Infinity Coast",
+        "endereco":"Av. Comendador Gustavo Paiva, 6255 - Jacarecica, Maceió - AL, 57038-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Lugano",
+        "endereco":"Rua Estudante Ubiracy Norberto Joazeiro de Farias Costa, 61 - Jatiúca, Maceió - AL, 57036-610, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Palais de Versailles",
+        "endereco":"R. José de Alencar, 291 - Farol, Maceió - AL, 57051-565, Brazil",
+        "telefone":"(82) 3336-2470"
+    },
+    {
+        "nome":"Vila do dudu",
+        "endereco":"R. C | Sessenta e Um, 50 - Benedito Bentes, Maceió - AL, 57085-059, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Jardins do Parque",
+        "endereco":"Av. Comendador Gustavo Paiva, 4056-4170 - Cruz das Almas, Maceió - AL, 57038-635, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Mirante das Estrelas",
+        "endereco":"Cruz das Almas, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Vitória",
+        "endereco":"R. Gaspar Ferrari, 104 - Ponta Verde, Maceió - AL, 57035-100, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Aruba",
+        "endereco":"R. Mal. Antônio Guedes Muniz, 47 - Jatiúca, Maceió - AL, 57036-670, Brazil",
+        "telefone":"(82) 3235-6483"
+    },
+    {
+        "nome":"Edifício Melillas",
+        "endereco":"R. Est. Jader Izídio Malta de Araújo, 37 - Jatiúca, Maceió - AL, 57036-610, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conjunto Castelo Branco, quadra 13, bloco D",
+        "endereco":"Av. Dr. Antônio Gomes de Barros, 495A - Jatiúca, Maceió - AL, 57036-004, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conjunto Climério Sarmento - Bloco 9",
+        "endereco":"R. Francisco Alves Mata - Jatiúca, Maceió - AL, 57036-180, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Green Village Residence",
+        "endereco":"Avenida General Luiz de França Albuquerque Rodovia AL 101 Norte), 10030, Guaxuma, Maceió\/AL CEP:, Maceió - AL, 57038-800, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Maison Jardins de Provence",
+        "endereco":"R. Danúsia de Menezes Brandão Ayres, 61 - Gruta de Lourdes, Maceió - AL, 57052-620, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Mar Atlântico",
+        "endereco":"R. das Algas, 215 - Praia do Francês, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 99172-5983"
+    },
+    {
+        "nome":"Edifício Praia Bonita",
+        "endereco":"Cruz das Almas, Maceió - State of Alagoas, 57038-240, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edf. Studio Design",
+        "endereco":"Rua Luiz Campos Teixeira, 1194 - Ponta Verde, Maceió - AL, 57035-290, Brazil",
+        "telefone":"(82) 3131-1505"
+    },
+    {
+        "nome":"Edifício Vista Verde",
+        "endereco":"Edifício Vista Verde - Loteamento Monte Verde, Q. B e C, 23 - Antares, Maceió - AL, 57081-390, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Maison de Provence",
+        "endereco":"Av. Des. Valente de Lima, 1014 - Mangabeiras, Maceió - AL, 57037-595, Brazil",
+        "telefone":"(82) 98809-5163"
+    },
+    {
+        "nome":"Edifício Atmosphera",
+        "endereco":"Av. Dr. Mario Nunes Viêira, 297 - Jatiúca, Maceió - AL, 57035-553, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Montmartre",
+        "endereco":"Tv. Antônio Maciel de Oliveira, 853 - Ponta Verde, Maceió - AL, 57035-280, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Marly Coimbra",
+        "endereco":"R. João Canúto da Silva, 202 - Cruz das Almas, Maceió - AL, 57038-300, Brazil",
+        "telefone":"(82) 99981-8870"
+    },
+    {
+        "nome":"Apartamentos Mobiliados",
+        "endereco":"Av. Walter Ananias, 500 - Jaraguá, Maceió - AL, 57022-063, Brazil",
+        "telefone":"(82) 99644-8733"
+    },
+    {
+        "nome":"Residencial e Comercial Garden",
+        "endereco":"Tv. Sizenando Amorim, 2-82 - Lot. Jose Alves, São Miguel dos Campos - AL, 57240-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Piatã",
+        "endereco":"R. Dep. José Lages, 246 - Ponta Verde, Maceió - AL, 57035-330, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Place Des Vosges",
+        "endereco":"Rua Hélio Pradines, 776 - Ponta Verde, Maceió - AL, 57035-370, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Flat Mobiliado Maceió",
+        "endereco":"R. Dr. Antônio Cansanção, 575 - Ap 406 - Ponta Verde, Maceió - AL, 57051-370, Brazil",
+        "telefone":"(82) 99129-1301"
+    },
+    {
+        "nome":"Maison D' Élysées",
+        "endereco":"R. Durval Guimarães, 438 - Ponta Verde, Maceió - AL, 57035-060, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Solar do Vale",
+        "endereco":"R. Zacarias de Azevedo, 597 - Pitanguinha, Maceió - AL, 57052-240, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Dona Zezé",
+        "endereco":"R. Cel. Lima Rocha, 1410 - Farol, Maceió - AL, 57055-400, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Rio Negro",
+        "endereco":"Av - Av. Prof. Sandoval Arroxelas, 927 - Ponta Verde, Maceió - AL, 57035-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Vila Toscana",
+        "endereco":"R. Danúsia de Menezes Brandão Ayres, 147 - Gruta de Lourdes, Maceió - AL, 57052-875, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Ed. Village Le Baron",
+        "endereco":"R. Barão José Miguel, 126 - Farol, Maceió - AL, 57055-160, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Marseille",
+        "endereco":"Av. João Davino, 306 - Jatiúca, Maceió - AL, 57035-554, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Marclar",
+        "endereco":"R. Elias Ramos de Araújo, 96 - Cruz das Almas, Maceió - AL, 57038-230, Brazil",
+        "telefone":"(75) 99139-5517"
+    },
+    {
+        "nome":"Edifício Sergio IV",
+        "endereco":"R. Flávius Durval Lessa Braga, 08 B - Mangabeiras, Maceió - AL, 57037-573, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Dulce Tenório",
+        "endereco":"R. José de Alencar, 102 - Farol, Maceió - AL, 57051-565, Brazil",
+        "telefone":"(82) 98137-6709"
+    },
+    {
+        "nome":"Edifício Place Vendôme",
+        "endereco":"Av. Prof. Sandoval Arroxelas, 58 - Ponta Verde, Maceió - AL, 57035-230, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Marieta Maia",
+        "endereco":"R. Dez de Novembro, 58 - Pitanguinha, Maceió - AL, 57052-220, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Promenade",
+        "endereco":"Rua Prefeito Abdon Arroxelas, 230 - AP 502 - Ponta Verde, Maceió - AL, 57035-380, Brazil",
+        "telefone":"(82) 99114-1445"
+    },
+    {
+        "nome":"Edificio São Gerônimo",
+        "endereco":"Poço, Maceió - State of Alagoas, 57035-687, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Chambéry",
+        "endereco":"Rua Hélio Pradines, 783 - Ponta Verde, Maceió - AL, 57035-220, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Papillon",
+        "endereco":"R. Eng. Mário de Gusmão, 328 - Ponta Verde, Maceió - AL, 57035-000, Brazil",
+        "telefone":"(11) 99863-5005"
+    },
+    {
+        "nome":"Edifício Nogueira De Ramuín",
+        "endereco":"R. Barão José Miguel, 264 - Farol, Maceió - AL, 57055-160, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício San Gimignano",
+        "endereco":"R. Dr. Odilon Vasconcelos, 425 - Jatiúca, Maceió - AL, 57035-660, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Helena B. de Mendonça",
+        "endereco":"R. Ernesto Gomes Maranhão, 866 - Jatiúca, Maceió - AL, 57036-860, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Noélia Jucá",
+        "endereco":"R. Maria Nuza Gomes Barreto - Gruta de Lourdes, Maceió - AL, 57046-512, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Arpoador",
+        "endereco":"Av. Des. Valente de Lima, 200 - Mangabeiras, Maceió - AL, 57037-035, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Paraty",
+        "endereco":"R. Áureliano Teixeira de Vasconcelos, 206 - Jatiúca, Maceió - AL, 57036-430, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Monte Fuji",
+        "endereco":"Av. Dr. Júlio Marques Luz, 585 - Jatiúca, Maceió - AL, 57035-700, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício James Thorp",
+        "endereco":"R. Machado Lemos, 189 - Ponta Verde, Maceió - AL, 57035-120, Brazil",
+        "telefone":"(82) 3231-2942"
+    },
+    {
+        "nome":"Edifício Santa Paula",
+        "endereco":"Poço, Maceió - State of Alagoas, 57025-065, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edificio Verdite III",
+        "endereco":"R. André Cardoso Borba, 152 - Feitosa, Maceió - AL, 57042-530, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"CASA - Palazzo Di Mare",
+        "endereco":"Av. João Davino, 146 - Jatiúca, Maceió - AL, 57035-554, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Ametista 2 Home Service",
+        "endereco":"Rua Paulina Maria de Mendonça, 64 - Jatiúca, Maceió - AL, 57035-557, Brazil",
+        "telefone":"(82) 3325-5599"
+    },
+    {
+        "nome":"Port Ville II",
+        "endereco":"R. Dep. Elizeu Teixeira, 195 - Ponta Verde, Maceió - AL, 57035-240, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edíficio São Marcos",
+        "endereco":"Av. Dr. José Sampaio Luz, 51 - Ponta Verde, Maceió - AL, 57035-260, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Rembrandt",
+        "endereco":"Feitosa, Maceió - State of Alagoas, 57042-430, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício El Greco",
+        "endereco":"Rua Luiz Campos Teixeira, 1201 - Ponta Verde, Maceió - AL, 57035-290, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Charles Garnier",
+        "endereco":"R. São Francisco de Assis, 225 - Jatiúca, Maceió - AL, 57035-680, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Mônaco",
+        "endereco":"R. Profa. Higia Vasconcelos, 119 - Ponta Verde, Maceió - AL, 57035-140, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Suely Mendes",
+        "endereco":"R. Dr. Antônio Cansanção, 712 - Ponta Verde, Maceió - AL, 57035-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Versatile",
+        "endereco":"R. Dr. José Afonso de Melo, 45 - Jatiúca, Maceió - AL, 57036-510, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Damascus",
+        "endereco":"Av. Prof. Vital Barbosa, 616b - Ponta Verde, Maceió - AL, 57035-400, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Ana Lucila",
+        "endereco":"R. Dr. Luís de Mascarenhas, 131 - Farol, Maceió - AL, 57055-030, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Maison D'or",
+        "endereco":"R. Profa. Higia Vasconcelos, 53 - Ponta Verde, Maceió - AL, 57035-140, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"EDIFICO TANNAT- CONSTRUTORA DELMAN SAMPAIO",
+        "endereco":"Jatiúca, Maceió - State of Alagoas, 57036-760, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Felice",
+        "endereco":"Av. Nelson Marinho de Araújo, 917 - Serraria, Maceió - AL, 57046-570, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residential Condominium Address Bella",
+        "endereco":"R. Antônio Sarafim Costa, S\/N - Chã do Pilar, Pilar - AL, 57150-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Complexo Do M.1",
+        "endereco":"Res. Maceió I - Cidade Universitária, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Complexo Do M1",
+        "endereco":"Cidade Universitária, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Monte Belo",
+        "endereco":"R. Ranulfo Ormindo de Lima - Antares, Maceió - AL, 57048-495, Brazil",
+        "telefone":"(82) 99122-7163"
+    },
+    {
+        "nome":"Residencial Daniel Barros",
+        "endereco":"Av. Prof. Santos Ferraz, 66 - Poço, Maceió - AL, 57025-040, Brazil",
+        "telefone":"(82) 98863-5956"
+    },
+    {
+        "nome":"Residencial Milano I",
+        "endereco":"Av. Napoleão Viana, 1200 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":"(82) 99800-1915"
+    },
+    {
+        "nome":"residencial recanto dos rios 348",
+        "endereco":"residencial recanto dos rios, Satuba - AL, 57120-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Conj. Eustáquio Gomes De Melo",
+        "endereco":"Unnamed Road - Cidade Universitária, AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condominio Recanto da Serraria I",
+        "endereco":"R. Pastor Manoel Pereira, 12 - Serraria, Maceió - AL, 57046-315, Brazil",
+        "telefone":"(82) 98105-6221"
+    },
+    {
+        "nome":"Vista Mar, Edifício Walter Vianna",
+        "endereco":"R. Ouvidor Mendonça, 325 - Cruz das Almas, Maceió - AL, 57038-380, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Toque dos Corais Milagres",
+        "endereco":"Praia do Toque, São Miguel dos Milagres - State of Alagoas, 57940-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Senador Arnon de Mello QD III",
+        "endereco":"R. José Cabral Acioli, 337 - Jatiúca, Maceió - AL, 57035-686, Brazil",
+        "telefone":"(82) 99612-7033"
+    },
+    {
+        "nome":"Centro Comunitário do Complexo Residencial Brasil",
+        "endereco":"R. Cruzeiro do Sul, 1 - Tabuleiro do Martins, Maceió - AL, 57015-430, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Irmãos Pessoa",
+        "endereco":"R. Lourival de Águiar Pessoa, 500 - Serraria, Maceió - AL, 57046-770, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Ana Rosa",
+        "endereco":"Rua Hélio Pradines, 374 - Ponta Verde, Maceió - AL, 57035-220, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio El Shaday",
+        "endereco":"Q. B, Lot. Santa Clara, 201 - Tabuleiro do Martins, Maceió - AL, 57060-182, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Village Magnólia",
+        "endereco":"R. Mal. Floriano Peixoto, 2-112 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Gran Marine",
+        "endereco":"AL-101, 10300 - Guaxuma, Maceió - AL, 57038-800, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Solar da Barra",
+        "endereco":"R. Maria I P Lima, 54 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Amazon Village",
+        "endereco":"Av. Dorgival Viana, 21 - Barra Nova, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":"(82) 98865-6565"
+    },
+    {
+        "nome":"Residencial pitangueiras",
+        "endereco":"R. Estatistico Jose Milton Buarque De Melo, 81 - Cidade Universitária, Maceió - AL, 57072-350, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Nova Esperança",
+        "endereco":"R. Afonso Alves de Carvalho, 170-88 - Barra Nova, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Josefa",
+        "endereco":"Av. Jorge Montenegro de Barros 1053, 11 - Chã de Bebedouro, Maceió - AL, 57045-055, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencia Recanto Das Flores",
+        "endereco":"Benedito Bentes, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Paraiso",
+        "endereco":"R. Bandeirantes, 166 - Conj. Bandeirante, Rio Largo - AL, 57100-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Residencial Alamedas do Horto",
+        "endereco":"Av. Sebastião Corrêia da Rocha - Petropolis, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Alamedas Farol",
+        "endereco":"Benedito Bentes, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Terra Vista",
+        "endereco":"em frente a empresa Raesa, AL-101, Coruripe - AL, 57230-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Flor da Serra",
+        "endereco":"R. Quarenta e Sete - Jardim Petrópolis, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Novo Jardim, módulo 3 \/QD L\/ CIDADE UNIVERSITÁRIA",
+        "endereco":"R. C-04 - Cidade Universitária, Maceió - AL, 57072-785, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Bem Viver",
+        "endereco":"R. Sr. José Bezerra Júnior, 30 - Serraria, Maceió - AL, 57046-521, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Rosas de Maria 2",
+        "endereco":"R. Ten. Ruber Ivo - Feitosa, Maceió - AL, 57042-700, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Enseada Dos Corais",
+        "endereco":"Av. Silvio Carlos Viana, 2003 - Ponta Verde, Maceió - AL, 57035-160, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Passione",
+        "endereco":"Tv. Inailda Felix, 699-723 - Santos Dumont, Maceió - AL, 57075-520, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Art House",
+        "endereco":"R. em Projeto CC, 37 - Antares, Maceió - AL, 57048, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Bela Terra",
+        "endereco":"Em projeto A L B Terra, R. Alto da Saudade, Coruripe - AL, 57230-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Portal da Barra",
+        "endereco":"Barra Nova, Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Spring Ville",
+        "endereco":"R. Padre Cícero, 332 - Antares, Maceió - AL, 57048-362, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Ilha Da Croa",
+        "endereco":"Rua Ana Messias de Araujo, 336 - Massagueira, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Reserva do Parque 2",
+        "endereco":"R. Gilberto Vieira Leite - Tabuleiro do Martins, Maceió - AL, 57060-182, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"RESIDENCIAL AMANS",
+        "endereco":"Av. Eraldo Lins Cavalcante, 74 - Serraria, Maceió - AL, 57046-570, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Romildo Ramos Rocha",
+        "endereco":"R. Dr. José Castro de Azevedo, 246 - Pitanguinha, Maceió - AL, 57052-240, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Gran Victoria",
+        "endereco":"R. Dr. Djalma Lins Buarque - Farol, Maceió - AL, 57050-060, Brazil",
+        "telefone":"(82) 3313-9474"
+    },
+    {
+        "nome":"Residencial Reserva das Águas",
+        "endereco":"AL 405, 330 - Cidade Universitária, Maceió - AL, Brazil",
+        "telefone":"(82) 99136-2706"
+    },
+    {
+        "nome":"Reserva Aldeprime",
+        "endereco":"R. Padre Cícero, 44 - Antares, Maceió - AL, 57048-359, Brazil",
+        "telefone":"(82) 99311-5149"
+    },
+    {
+        "nome":"Residencial Parque das Palmeiras",
+        "endereco":"Rua Ailton Torres, 66 - Serraria, Maceió - AL, 57046-144, Brazil",
+        "telefone":"(82) 98872-9850"
+    },
+    {
+        "nome":"Residencial Ouro Verde",
+        "endereco":"Av. dos Ipês Amarelos, 112 - Antares, Maceió - AL, 57083-410, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Brisa Da Lagoa",
+        "endereco":"R. Padre Silvestre, 178-1014 - Barra Nova, Mal. Deodoro - AL, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Regina Célia",
+        "endereco":"Alameda Dr. Moacyr Tavares Lopes, 265 - Pinheiro, Maceió - AL, 57057-550, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Jardim Samambaia",
+        "endereco":"Serraria, Maceió - State of Alagoas, 57045-900, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Condomínio Nova Esperança I",
+        "endereco":"Santos Dumont, Maceió - State of Alagoas, 57075-440, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Jardim Feitosa",
+        "endereco":"Av. Gov. Lamenha Filho, 988 - Feitosa, Maceió - AL, 57043-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"RN Studio Premium",
+        "endereco":"R. Marechal Mascarenhas de Moraes, 66 - Cruz das Almas, Maceió - AL, 57038-120, Brazil",
+        "telefone":"(82) 3217-1000"
+    },
+    {
+        "nome":"Edifício Monte Berrine",
+        "endereco":"R. Sen. Rui Palmeira, 516 - Ponta Verde, Maceió - AL, 57035-250, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Absolut Class",
+        "endereco":"Av. Dr. Mario Nunes Viêira, 113 - Mangabeiras, Maceió - AL, 57037-580, Brazil",
+        "telefone":"3355-2243"
+    },
+    {
+        "nome":"Areias do Mar",
+        "endereco":"R. Francisco D Sampaio, 94 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":"(82) 99374-5113"
+    },
+    {
+        "nome":"Mosaico Do Mar",
+        "endereco":"Rua Deputado Luiz Gonzaga Coutinho, 211 - Jatiúca, Maceió - AL, 57036-110, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Terrazzos",
+        "endereco":"R. Dr. Luís de Mascarenhas, 18 - Farol, Maceió - AL, 57055-030, Brazil",
+        "telefone":"(82) 98125-6619"
+    },
+    {
+        "nome":"Antônio Soares Mansion Building",
+        "endereco":"R. Maria Helena Saldanha, 142 - Farol, Maceió - AL, 57051-470, Brazil",
+        "telefone":"(82) 98205-7960"
+    },
+    {
+        "nome":"Edifício Antilhas",
+        "endereco":"R. Dep. José Lages, 1225 - Ponta Verde, Maceió - AL, 57035-330, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Apartamento Maceió",
+        "endereco":"Rua Paulina Maria de Mendonça, 64 - Jatiúca, Maceió - AL, 57035-557, Brazil",
+        "telefone":"(65) 99681-4030"
+    },
+    {
+        "nome":"Edifício Monte Humanari",
+        "endereco":"Rua Hélio Pradines, 766 - Ponta Verde, Maceió - AL, 57035-220, Brazil",
+        "telefone":"(82) 3327-0204"
+    },
+    {
+        "nome":"Residencial Mata dos Sábias",
+        "endereco":"R. São Luiz, 314 - Petropolis, Maceió - AL, 57062-043, Brazil",
+        "telefone":"(82) 98235-4057"
+    },
+    {
+        "nome":"Edifício Ametista 6",
+        "endereco":"R. Jangadeiros Alagoanos, 1521 - Pajuçara, Maceió - AL, 57030-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Bragança Residence",
+        "endereco":"Rua Dr. Zeferino Rodrigues, 210 - Pajuçara, Maceió - AL, 57030-081, Brazil",
+        "telefone":"(82) 3326-3102"
+    },
+    {
+        "nome":"Jamaica",
+        "endereco":"Av. Álvaro Otacílio, 6691 - Jatiúca, Maceió - AL, 57037-270, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Riacho Doce Beach Residence",
+        "endereco":"AL-101, 55 - Riacho Doce, Maceió - AL, 57039-535, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Maison Monet",
+        "endereco":"R. Elias Ramos de Araújo, 77 - Cruz das Almas, Maceió - AL, 57038-280, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Las Brisas",
+        "endereco":"R. Est. Jader Izídio Malta de Araújo, 201 - Jatiúca, Maceió - AL, 57036-610, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Leiria",
+        "endereco":"R. Ferroviário Manoel Gonçalves Filho, 112 - Jatiúca, Maceió - AL, 57035-852, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Ametista 7",
+        "endereco":"Rua Hélio Pradines, 555 - Ponta Verde, Maceió - AL, 57035-220, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Valparaíso",
+        "endereco":"Av. Dr. José Sampaio Luz, 1137 - Ponta Verde, Maceió - AL, 57035-260, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edificio Gales De Pajucara",
+        "endereco":"R. Jangadeiros Alagoanos, 1417 - ap 1005 - Pajuçara, Maceió - AL, 57030-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Atlântico",
+        "endereco":"R. José Carneiro da Cunha Sarmento, 118 - B01 - Jatiúca, Maceió - AL, 57036-630, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Promenade II",
+        "endereco":"Rua Prefeito Abdon Arroxelas, 383 - Ponta Verde, Maceió - AL, 57035-380, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Aquabali",
+        "endereco":"Av. Pio XII, 640 - Jatiúca, Maceió - AL, 57035-560, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Blend Reserva 21",
+        "endereco":"97CX+XC - Cruz das Almas, Maceió - AL, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Londres",
+        "endereco":"R. Dr. Antônio Cansanção, 991 - Ponta Verde, Maceió - AL, 57035-190, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Grand Bahama",
+        "endereco":"R. Antônio Gerbase, 82 - Pitanguinha, Maceió - AL, 57052-160, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Terrantai",
+        "endereco":"R. Ver. Pedro Moura, 283 - Jatiúca, Maceió - AL, 57036-360, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Ana Luiza",
+        "endereco":"R. Dr. Odilon Vasconcelos, 226 - Jatiúca, Maceió - AL, 57035-660, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Grand Reserva",
+        "endereco":"Av. Menino Marcelo, nº 184 - Cidade Universitária, Maceió - AL, 57073-461, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Palazzo Ravena",
+        "endereco":"R. Mal. Antônio Guedes Muniz, 77 - Jatiúca, Maceió - AL, 57036-670, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Maceió",
+        "endereco":"Rio Novo, Maceió - State of Alagoas, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Dellas Administradora de Condominios Ltda",
+        "endereco":"Av. Dr. Júlio Marques Luz, 1805 - Jatiúca, Maceió - AL, 57035-700, Brazil",
+        "telefone":"(82) 3355-9091"
+    },
+    {
+        "nome":"CENTRO LOGÍSTICO TORRES - CLT 02",
+        "endereco":"R. José Vieira, 227 - Tabuleiro do Martins, Maceió - AL, 57081-520, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Imobiliária Lopes Maceió",
+        "endereco":"Rua Hamilton de Barros Soutinho, 706 - Jatiúca, Maceió - AL, 57035-690, Brazil",
+        "telefone":"(82) 3436-8886"
+    },
+    {
+        "nome":"Residencial Mar de Java",
+        "endereco":"Rua Professora Nadyr Maia Gomes Rego, 88 - Jatiúca, Maceió - AL, 57036-760, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"i4 Imóveis",
+        "endereco":"Av. Eraldo Lins Cavalcante, 427 - Serraria, Maceió - AL, 57045-575, Brazil",
+        "telefone":"(82) 3185-9275"
+    },
+    {
+        "nome":"CONDOMÍNIO JAC",
+        "endereco":"Rua Santa Luzia, 1667 - Village Campestre, Maceió - AL, 57073-580, Brazil",
+        "telefone":"(82) 99983-6454"
+    },
+    {
+        "nome":"Ladeira Murilo Monteiro valente",
+        "endereco":"Av. Mendonça Júnior, 213 - Gruta de Lourdes, Maceió - AL, 57052-480, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Zampieri Imóveis LTDA",
+        "endereco":"R. Durval Guimarães, 1738 - Ponta Verde, Maceió - AL, 57035-060, Brazil",
+        "telefone":"(82) 2121-6000"
+    },
+    {
+        "nome":"HL Imóveis",
+        "endereco":"Av. Menino Marcelo, 4767 - Km 6 - Antares, Maceió - AL, 57083-410, Brazil",
+        "telefone":"(82) 99980-3204"
+    },
+    {
+        "nome":"Casa para alugar",
+        "endereco":"R. Pajuçara, 002 - Cidade Universitária, Maceió - AL, 57073-490, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Cunha Imobiliária",
+        "endereco":"Galeria Antares - Av. Menino Marcelo, 5620 - Loja 6 - Antares, Maceió - AL, 57083-410, Brazil",
+        "telefone":"(82) 99939-7948"
+    },
+    {
+        "nome":"Robson Pessoa Imóveis",
+        "endereco":"Av. Paulo Falcão, 1384 - Jatiúca, Maceió - AL, 57036-390, Brazil",
+        "telefone":"(82) 99951-4475"
+    },
+    {
+        "nome":"Claudio Tenório Imóveis",
+        "endereco":"R. Constant Pacheco, 70 - Cruz das Almas, Maceió - AL, 57038-020, Brazil",
+        "telefone":"(82) 99954-8754"
+    },
+    {
+        "nome":"Andaza Imóveis",
+        "endereco":"Edifício Millennium Tower Empresarial - R. Jangadeiros Alagoanos, 1188 - Sala 201 - Pajuçara, Maceió - AL, 57030-000, Brazil",
+        "telefone":"(82) 98190-8609"
+    },
+    {
+        "nome":"Soares Nobre Imóveis - Maceió",
+        "endereco":"Rua Tereza de Azevedo, 1430 - Pinheiro, Maceió - AL, 57057-570, Brazil",
+        "telefone":"(82) 99997-0958"
+    },
+    {
+        "nome":"Condomínio Romanos",
+        "endereco":"Santa Rita, Marechal Deodoro - State of Alagoas, 57160-000, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"TIAGO RAMOS Corretor de Imóveis",
+        "endereco":"Residencial Parque Petrópolis - Petropolis, Maceió - AL, 57062-591, Brazil",
+        "telefone":"(82) 98870-8886"
+    },
+    {
+        "nome":"Edificio Polar",
+        "endereco":"Av. Santa Rita de Cássia, 314 - Farol, Maceió - AL, 57051-600, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Mariz Imóveis",
+        "endereco":"Edifício Norcon Empresarial - Av. Comendador Gustavo Paiva, 2789 - Loja 5 - Mangabeiras, Maceió - AL, 57038-000, Brazil",
+        "telefone":"(82) 3326-6069"
+    },
+    {
+        "nome":"Alcimary Pereira Mauricio",
+        "endereco":"R. José Freire Moura, 320 - Ponta Verde, Maceió - AL, 57035-110, Brazil",
+        "telefone":"(82) 99118-3656"
+    },
+    {
+        "nome":"Aluguel Maceió",
+        "endereco":"R. Gen. Newton de Andrade Cavalcante, 17 - Jatiúca, Maceió - AL, 57036-460, Brazil",
+        "telefone":"(82) 99125-0680"
+    },
+    {
+        "nome":"Immove Negócios Imobiliários",
+        "endereco":"JTR - Edf. Itália, R. Comerc. José Pontes de Magalhães, 70 - Sala 506 - Jatiúca, Maceió - AL, 57036-250, Brazil",
+        "telefone":"(82) 99600-0111"
+    },
+    {
+        "nome":"Daniel Carnaúba",
+        "endereco":"R. Teófilo Otoni, nº 25 - Pajuçara, Maceió - AL, 57030-110, Brazil",
+        "telefone":"(82) 99173-7775"
+    },
+    {
+        "nome":"Fernando Oiticica Imóveis",
+        "endereco":"Av. Moema Cavalcante Bastos, 963 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":"(82) 99638-9187"
+    },
+    {
+        "nome":"Edifício Estrela do Oriente",
+        "endereco":"Av. Prof. Santos Ferraz, 547 - Poço, Maceió - AL, 57025-040, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Residencial Jardins Ville",
+        "endereco":"Q. O Lot Monte Verde, 296 - Lot Monte Verde, Maceió - AL, 57048-570, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Kit Net Loft Lojas Comerciais 1114",
+        "endereco":"R. Cap. Marinho Falcão, 1114 - Poço, Maceió - AL, 57025-260, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Imobiliária Marcos Paulo",
+        "endereco":"da Costa, N° 80 - R. João Correia Costa, Sala 03 - Antares, Maceió - AL, 57048-810, Brazil",
+        "telefone":"(82) 98875-1817"
+    },
+    {
+        "nome":"DOUGLAS COSTA Corretor de Imóveis",
+        "endereco":"Rod. Dr. Ib Gatto Marinho Falcão, Sala 01 - Posto Elite, Barra de São Miguel - AL, 57180-000, Brazil",
+        "telefone":"(82) 99935-0221"
+    },
+    {
+        "nome":"Betty Ruiz Consultoria Imobiliária",
+        "endereco":"Record Office - R. Eng. Mário de Gusmão, 988 - Sala 103 - Ponta Verde, Maceió - AL, 57035-000, Brazil",
+        "telefone":"(82) 98761-2961"
+    },
+    {
+        "nome":"V IMÓVEL - Imobiliária em Maceió",
+        "endereco":"Conde Empresarial - Av. Luiz Ramalho de Castro, 869 - Sala 06 - Jatiúca, Maceió - AL, 57036-650, Brazil",
+        "telefone":"(82) 99904-2222"
+    },
+    {
+        "nome":"Everson Cavalcante - Corretor de Imóveis - Imobiliária em Maceió - Alagoas",
+        "endereco":"Av. João Davino, 667 - Jatiúca, Maceió - AL, 57035-554, Brazil",
+        "telefone":"(82) 99999-0113"
+    },
+    {
+        "nome":"Allan Gama - Consultor Imobiliário",
+        "endereco":"R. João Gualberto Pereira do Carmo, 113 - sala 204 - Ponta Verde, Maceió - AL, 57035-270, Brazil",
+        "telefone":"(82) 99907-7004"
+    },
+    {
+        "nome":"Geraldo Freitas Consultoria Imobiliária",
+        "endereco":"Edifício Espanha - R. Comerc. José Pontes de Magalhães, 70 - Ljs. 07 e 08 - Jatiúca, Maceió - AL, 57036-250, Brazil",
+        "telefone":"(82) 3432-8898"
+    },
+    {
+        "nome":"APSA - Jatiúca, Maceió",
+        "endereco":"R. Dep. Elizeu Teixeira, 120 - Jatiúca, Maceió - AL, 57035-240, Brazil",
+        "telefone":"(82) 3217-9919"
+    },
+    {
+        "nome":"Tayse Barbosa",
+        "endereco":"Av. Silvio Carlos Viana - Ponta Verde, Maceió - AL, 57035-160, Brazil",
+        "telefone":"(82) 99660-8522"
+    },
+    {
+        "nome":"Plataforma Imobiliária Sétimo Andar",
+        "endereco":"Av. Comendador Gustavo Paiva, 5945 - Loja 3026 - Cruz das Almas, Maceió - AL, 57038-000, Brazil",
+        "telefone":"(82) 98179-4056"
+    },
+    {
+        "nome":"Hebel Nutels - Consultor de Imóveis",
+        "endereco":"R. Vinícius de Morais, 611 - Jatiúca, Maceió - AL, 57036-330, Brazil",
+        "telefone":"(82) 99644-3692"
+    },
+    {
+        "nome":"Firma Imobiliária - Consultoria em Imóveis de Alto Padrão",
+        "endereco":"R. Arthur Bulhões, 107 - Jatiúca, Maceió - AL, 57035-856, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Edifício Vale Verde",
+        "endereco":"R. em Projeto O, 247 - Antares, Maceió - AL, 57048-056, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Azul Maceió Imobiliária",
+        "endereco":"Galeria Anitta Peixoto, R. Industrial Breno Lins Cansanção, 10 - Jatiúca, Maceió - AL, 57036-210, Brazil",
+        "telefone":"(82) 3037-3383"
+    },
+    {
+        "nome":"Edifício savoy",
+        "endereco":"R. Industrial Moacir Duarte, 12 - Mangabeiras, Maceió - AL, 57037-500, Brazil",
+        "telefone":""
+    },
+    {
+        "nome":"Apêhouse Imobiliária",
+        "endereco":"Ao lado da Caixa Econômica - Av. Juca Sampaio, 2247 Shopping Miramar, 82 - Feitosa, Maceió - AL, 57042-530, Brazil",
+        "telefone":"(82) 99999-9091"
+    },
+    {
+        "nome":"Digimob Soluções Imobiliárias",
+        "endereco":"Av. João Davino, 871 - Jatiúca, Maceió - AL, 57037-000, Brazil",
+        "telefone":"(82) 99833-7844"
+    },
+    {
+        "nome":"Rocha Alves Imóveis",
+        "endereco":"R. Dr. Abelardo Pontes Lima, 502 - Gruta de Lourdes, Maceió - AL, 57052-695, Brazil",
+        "telefone":"(82) 3021-3636"
+    },
+    {
+        "nome":"Casa por temporada em Sauaçuhy",
+        "endereco":"Avenida Ministro Lindolfo Collor, 1239, QD -O Condomínio Park, Av. Prof. Jaime de Altavilla - Ipioca, Maceió - AL, 57039-795, Brazil",
+        "telefone":"(82) 99916-0729"
+    },
+    {
+        "nome":"Muniz Falcão Imóveis",
+        "endereco":"R. Desportista Carlos Gonzaga Brêda Júnior, n°05 - Jatiúca, Maceió - AL, 57036-500, Brazil",
+        "telefone":"(82) 98895-3001"
+    },
+    {
+        "nome":"Val Nunes Imóveis",
+        "endereco":"R. Eng. Mário de Gusmão, 465 - Sala 109 109 - Ponta Verde, Maceió - AL, 57035-000, Brazil",
+        "telefone":"(82) 99999-1362"
+    },
+    {
+        "nome":"Waleska Morelatto Corretora de Imóveis",
+        "endereco":"465, Rua Engenheiro, R. Eng. Mário de Gusmão, de - Ponta Verde, Maceió - AL, 57035-000, Brazil",
+        "telefone":"(82) 99644-6733"
+    },
+    {
+        "nome":"WJ Consultoria Imobiliária",
+        "endereco":"Av. Comendador Gustavo Paiva, 5395 - Sala 03 - Cruz das Almas, Maceió - AL, 57038-000, Brazil",
+        "telefone":"(82) 99991-5162"
+    },
+    {
+        "nome":"Caio Tenório Imóveis",
+        "endereco":"Empresarial JTR - Av. Álvaro Otacílio, 3731 - Sala 602 - Jatiúca, Maceió - AL, 57036-850, Brazil",
+        "telefone":"(82) 99383-7777"
+    },
+    {
+        "nome":"Open Negócios Imobiliários",
+        "endereco":"Empresarial 203 Oficces - Av. Dom Antônio Brandão, 203 - Sala 510 - Farol, Maceió - AL, 57051-190, Brazil",
+        "telefone":"(82) 98822-0511"
+    },
+    {
+        "nome":"JOÃO RIBEIROI IMÓVEIS",
+        "endereco":"R. Sen. Rui Palmeira, 56 - Ponta Verde, Maceió - AL, 57035-250, Brazil",
+        "telefone":"(82) 99931-7673"
+    },
+    {
+        "nome":"Ana Rijo",
+        "endereco":"Av. Prof. Vital Barbosa, 268 - Ponta Verde, Maceió - AL, 57035-400, Brazil",
+        "telefone":"(82) 99612-1507"
+    },
+    {
+        "nome":"Ello Condomínios - Administradora de Condomínios",
+        "endereco":"Condomínio Residencial Mariner - R. Dr. Antônio Cansanção, 575 - Ponta Verde, Maceió - AL, 57035-190, Brazil",
+        "telefone":"(82) 3313-8708"
+    },
+    {
+        "nome":"imóveis Alagoas",
+        "endereco":"R. Dr. José Camelo Júnior, n 50 - Petropolis, Maceió - AL, 57080-525, Brazil",
+        "telefone":"(82) 98814-0627"
+    },
+    {
+        "nome":"HILTON IMÓVEIS",
+        "endereco":"Av. José Ailton dos Santos - Village Campestre, Maceió - AL, 57073-480, Brazil",
+        "telefone":"(82) 99114-1041"
+    },
+    {
+        "nome":"Imóveis de Luxo em Maceió",
+        "endereco":"Empresarial JTR, Torre Itália - Av. Álvaro Otacílio, 3731 - Sala 602 - Jatiúca, Maceió - AL, 57036-850, Brazil",
+        "telefone":"(82) 98143-6737"
+    },
+    {
+        "nome":"ALM Imóveis",
+        "endereco":"Empresarial João Gomes De Melo - Av. Menino Marcelo, 1900 - sala 16 - Serraria, Maceió - AL, 57046-000, Brazil",
+        "telefone":"(82) 4101-7557"
+    },
+    {
+        "nome":"Élio Dias Imoveis",
+        "endereco":"Lad. Dr. Geraldo De Melo Dos Santos, 126 B - Farol, Maceió - AL, 57051-240, Brazil",
+        "telefone":"(82) 3327-4296"
+    }
+]
